@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  https://topstar999-wq.github.io/html/sitemap.xml
